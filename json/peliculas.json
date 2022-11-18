@@ -1,0 +1,74 @@
+{
+    "peliculas": [
+        {
+            "id": 1,
+            "caratula" : "",
+            "nombre" : "",
+            "director" : "",
+            "clasification" : ""
+        },
+        {   
+            "id": 2,
+            "caratula" : "",
+            "nombre" : "",
+            "director" : "",
+            "clasification" : ""
+        },
+        {   
+            "id": 3,
+            "caratula" : "",
+            "nombre" : "",
+            "director" : "",
+            "clasification" : ""
+        },
+        {   
+            "id": 4,
+            "caratula" : "",
+            "nombre" : "",
+            "director" : "",
+            "clasification" : ""
+        },
+        {   
+            "id": 5,
+            "caratula" : "",
+            "nombre" : "",
+            "director" : "",
+            "clasification" : ""
+        },
+        {   
+            "id": 6,
+            "caratula" : "",
+            "nombre" : "",
+            "director" : "",
+            "clasification" : ""
+        },
+        {   
+            "id": 7,
+            "caratula" : "",
+            "nombre" : "",
+            "director" : "",
+            "clasification" : ""
+        },
+        {   
+            "id": 8,
+            "caratula" : "",
+            "nombre" : "",
+            "director" : "",
+            "clasification" : ""
+        },
+        {   
+            "id": 9,
+            "caratula" : "",
+            "nombre" : "",
+            "director" : "",
+            "clasification" : ""
+        },
+        {   
+            "id": 10,
+            "caratula" : "",
+            "nombre" : "",
+            "director" : "",
+            "clasification" : ""
+        }
+    ]
+}
