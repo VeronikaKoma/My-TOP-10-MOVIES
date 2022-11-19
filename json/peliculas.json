@@ -2,17 +2,17 @@
     "peliculas": [
         {
             "id": 1,
-            "caratula" : "",
-            "nombre" : "",
-            "director" : "",
-            "clasification" : ""
+            "caratula" : "https://pics.filmaffinity.com/citizen_kane-217208961-large.jpg",
+            "nombre" : "Ciudadano Kane",
+            "director" : "Orson Welles",
+            "clasification" : "Drama"
         },
         {   
             "id": 2,
-            "caratula" : "",
-            "nombre" : "",
-            "director" : "",
-            "clasification" : ""
+            "caratula" : "https://pics.filmaffinity.com/the_bridges_of_madison_county-998728421-large.jpg",
+            "nombre" : "Los puentes de Madison",
+            "director" : "Clint Eastwood",
+            "clasification" : "Romance. Drama"
         },
         {   
             "id": 3,
