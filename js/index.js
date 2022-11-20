@@ -5,11 +5,10 @@ async function fetchMoviesJson(){
     const movies = await response.json();
     return movies;
 }
-
     fetchMoviesJson().then(movies =>{
-    for(let index = 0 ; index < movies.peliculas.lenght; index++){
+    for(let index = 0; index < movies.peliculas.length ; index++){
     
-    console.log(movies.peliculas[index].nombre);
+    console.log(movies.peliculas[index].titulo);
 
     };
     
