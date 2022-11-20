@@ -1,19 +1,74 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "peliculas": [
+        {
+            "id": 1,
+            "caratula" : "https://pics.filmaffinity.com/citizen_kane-217208961-large.jpg",
+            "nombre" : "Ciudadano Kane",
+            "director" : "Orson Welles",
+            "clasification" : "Drama"
+        },
+        {   
+            "id": 2,
+            "caratula" : "https://pics.filmaffinity.com/the_bridges_of_madison_county-998728421-large.jpg",
+            "nombre" : "Los puentes de Madison",
+            "director" : "Clint Eastwood",
+            "clasification" : "Romance. Drama"
+        },
+        {   
+            "id": 3,
+            "caratula" : "https://pics.filmaffinity.com/meet_joe_black-143070741-large.jpg",
+            "nombre" : "¿Conoces a Joe Black?",
+            "director" : "Martin Brest",
+            "clasification" : "Drama romántico"
+        },
+        {   
+            "id": 4,
+            "caratula" : "https://pics.filmaffinity.com/hotaru_no_haka_aka_grave_of_the_fireflies_aka-128332096-large.jpg",
+            "nombre" : "La tumba de las luciérnagas",
+            "director" : "Isao Takahata",
+            "clasification" : "Animación. Drama"
+        },
+        {   
+            "id": 5,
+            "caratula" : "https://pics.filmaffinity.com/the_horse_whisperer-924204810-large.jpg",
+            "nombre" : "El hombre que susurraba a los caballos",
+            "director" : "Robert Redford",
+            "clasification" : "Drama romántico"
+        },
+        {   
+            "id": 6,
+            "caratula" : "https://pics.filmaffinity.com/loving_vincent-903551620-large.jpg",
+            "nombre" : "Loving Vincent",
+            "director" : "Dorota Kobiela, Hugh Welchman",
+            "clasification" : "Animación. Biográfico"
+        },
+        {   
+            "id": 7,
+            "caratula" : "https://pics.filmaffinity.com/pay_it_forward-693981184-large.jpg",
+            "nombre" : "Cadena de favores",
+            "director" : "Mimi Leder",
+            "clasification" : "Drama"
+        },
+        {   
+            "id": 8,
+            "caratula" : "https://pics.filmaffinity.com/a_walk_to_remember-780322970-large.jpg",
+            "nombre" : "Un paseo para recordar",
+            "director" : "Adam Shankman",
+            "clasification" : "Adopción. Drama"
+        },
+        {   
+            "id": 9,
+            "caratula" : "https://pics.filmaffinity.com/contratiempo-621094614-large.jpg",
+            "nombre" : "Contratiempo",
+            "director" : "Oriol Paulo",
+            "clasification" : "Crimen"
+        },
+        {   
+            "id": 10,
+            "caratula" : "https://pics.filmaffinity.com/anne_of_green_gables_tv-435141607-large.jpg",
+            "nombre" : "Ana de las tejas verdes (TV)",
+            "director" : "Kevin Sullivan",
+            "clasification" : "Adopción. Drama"
+        }
+    ]
 }
