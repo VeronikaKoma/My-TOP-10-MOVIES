@@ -19,6 +19,7 @@ async function fetchMoviesJson(){
         let director = movies.peliculas[index].director;
         let genre = movies.peliculas[index].clasification;
         let img = movies.peliculas[index].caratula;
+        let more = movies.peliculas[index].siguentemas;
     
         //console.log(movies.peliculas[index].id);
 
