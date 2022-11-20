@@ -2,35 +2,36 @@
     "peliculas": [
         {
             "id": 1,
-            "caratula" : "https://pics.filmaffinity.com/citizen_kane-217208961-large.jpg",
-            "titulo" : "Ciudadano Kane",
-            "descripcion" : "bla bla bla",
-            "director" :  "Orson Welles",
-            "Clasification" : "Drama"
-        },
-        {   
-            "id": 2,
             "caratula" : "https://pics.filmaffinity.com/the_bridges_of_madison_county-998728421-large.jpg",
             "titulo" : "Los puentes de Madison",
             "descripcion" : "bla bla bla",
             "director" : "Clint Eastwood",
-            "Clasification" : "Romance. Drama"
+            "clasification" : "Romance. Drama"
+        },
+        {   
+            "id": 2,
+            
+            "caratula" : "https://pics.filmaffinity.com/citizen_kane-217208961-large.jpg",
+            "titulo" : "Ciudadano Kane",
+            "descripcion" : "bla bla bla",
+            "director" :  "Orson Welles",
+            "clasification" : "Drama"
         },
         {   
             "id": 3,
-            "caratula" : "https://pics.filmaffinity.com/meet_joe_black-143070741-large.jpg",
-            "titulo" : "Conoces a Joe Black",
+            "caratula" : "https://pics.filmaffinity.com/loving_vincent-903551620-large.jpg",
+            "titulo" : "Loving Vincent",
             "descripcion" : "bla bla bla",
-            "director" : "Martin Brest",
-            "Clasification" : "Drama romantico"
+            "director" : "Dorota Kobiela, Hugh Welchman",
+            "clasification" : "Animacion. Biografico"
         },
         {   
             "id": 4,
-            "caratula" : "https://pics.filmaffinity.com/hotaru_no_haka_aka_grave_of_the_fireflies_aka-128332096-large.jpg",
+            "caratula" : "https://www.ecartelera.com/carteles/6200/6288/002.jpg",
             "titulo" : "La tumba de las luciernagas",
             "descripcion" : "bla bla bla",
             "director" : "Isao Takahata",
-            "Clasification" : "Animacion"
+            "clasification" : "Animacion"
         },
         {   
             "id": 5,
@@ -38,47 +39,48 @@
             "titulo" : "El hombre que susurraba a los caballos",
             "descripcion" : "bla bla bla",
             "director" : "Robert Redford",
-            "Clasification" : "Drama romantico"
+            "clasification" : "Drama romantico"
         },
         {   
             "id": 6,
-            "caratula" : "https://pics.filmaffinity.com/loving_vincent-903551620-large.jpg",
-            "titulo" : "Loving Vincent",
+
+            "caratula" : "https://pics.filmaffinity.com/meet_joe_black-143070741-large.jpg",
+            "titulo" : "Conoces a Joe Black",
             "descripcion" : "bla bla bla",
-            "director" : "Dorota Kobiela, Hugh Welchman",
-            "Clasification" : "Animacion. Biografico"
-        },
+            "director" : "Martin Brest",
+            "clasification" : "Drama romantico"
+            },
         {   
             "id": 7,
             "caratula" : "https://pics.filmaffinity.com/pay_it_forward-693981184-large.jpg",
             "titulo" : "Cadena de favores",
             "descripcion" : "bla bla bla",
             "director" : "Mimi Leder",
-            "Clasification" : "Drama"
+            "clasification" : "Drama"
         },
         {   
             "id": 8,
+            "caratula" : "https://pics.filmaffinity.com/anne_of_green_gables_tv-435141607-large.jpg",
+            "titulo" : "Ana de las tejas verdes (TV)",
+            "descripcion" : "bla bla bla",
+            "director" : "Kevin Sullivan",
+            "clasification" : "Adopcion"
+        },
+        {   
+            "id": 9,
+            "caratula" : "https://pics.filmaffinity.com/fight_club-320750671-large.jpg",
+            "titulo" : "El club de la lucha",
+            "descripcion" : "bla bla bla",
+            "director" : "David Fincher",
+            "clasification" : "Película de culto. Comedia negra"
+        },
+        {   
+            "id": 10,
             "caratula" : "https://pics.filmaffinity.com/a_walk_to_remember-780322970-large.jpg",
             "titulo" : "Un paseo para recordar",
             "descripcion" : "bla bla bla",
             "director" : "Adam Shankman",
-            "Clasification" : "Drama"
-        },
-        {   
-            "id": 9,
-            "caratula" : "https://pics.filmaffinity.com/contratiempo-621094614-large.jpg",
-            "titulo" : "Contratiempo",
-            "descripcion" : "bla bla bla",
-            "director" : "Oriol Paulo",
-            "Clasification" : "Crimen"
-        },
-        {   
-            "id": 10,
-            "caratula" : "https://pics.filmaffinity.com/anne_of_green_gables_tv-435141607-large.jpg",
-            "titulo" : "Ana de las tejas verdes",
-            "descripcion" : "bla bla bla",
-            "director" : "Kevin Sullivan",
-            "Clasification" : "Adopcion"
+            "clasification" : "Drama"
         }
     ]
 }
