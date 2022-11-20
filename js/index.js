@@ -6,12 +6,10 @@ async function fetchMoviesJson(){
     return movies;
 }
     fetchMoviesJson().then(movies =>{
-    for(let index = 0; index < movies.peliculas.length ; index++){
+    for(let index = 0 ; index < movies.peliculas.length; index++){
     
     console.log(movies.peliculas[index].titulo);
 
     };
     
 })
-
-
