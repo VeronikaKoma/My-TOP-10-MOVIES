@@ -7,7 +7,7 @@ async function fetchMoviesJson(){
 }
 
     fetchMoviesJson().then(movies =>{
-    for(let index = 0 ; index < movies.peliculas.lenght; index++){
+    for(let index = 0 ; index < movies.peliculas.length; index++){
     
     console.log(movies.peliculas[index].nombre);
 
