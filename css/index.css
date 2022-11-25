@@ -2,6 +2,20 @@ body {
     background-color: rgb(66, 67, 61);
 }
 
+.TagLink {
+    margin-left: auto;
+    align-items: calc(-11, 11, 11);
+    justify-content: end;
+    flex-direction:row;
+    width: 15%;
+    max-height: 20%;
+    margin-top: -13%;
+    
+    
+}
+bgsound {
+    flex-shrink: right;
+}
 
 .cardsMovies{
     display: flex;

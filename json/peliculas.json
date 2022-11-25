@@ -43,7 +43,6 @@
         },
         {   
             "id": 6,
-
             "caratula" : "https://pics.filmaffinity.com/meet_joe_black-143070741-large.jpg",
             "titulo" : "Conoces a Joe Black",
             "descripcion" : "bla bla bla",
@@ -75,23 +74,23 @@
             "clasification" : "Película de culto. Comedia negra"
         },
         {   
-            "id": 5,
-            "caratula" : "https://pics.filmaffinity.com/the_horse_whisperer-924204810-large.jpg",
-            "titulo" : "El hombre que susurraba a los caballos",
-            "descripcion" : "bla bla bla",
-            "director" : "Robert Redford",
-            "clasification" : "Drama romantico"
-        },
-        {   
-            "id": 5,
-            "caratula" : "https://pics.filmaffinity.com/the_horse_whisperer-924204810-large.jpg",
-            "titulo" : "El hombre que susurraba a los caballos",
-            "descripcion" : "bla bla bla",
-            "director" : "Robert Redford",
-            "clasification" : "Drama romantico"
-        },
-        {   
             "id": 10,
+            "caratula" : "https://pics.filmaffinity.com/the_way_we_were-850530104-large.jpg",
+            "titulo" : "Tal como eramos",
+            "descripcion" : "bla bla bla",
+            "director" : "Sydney Pollack",
+            "clasification" : "Drama romantico"
+        },
+        {   
+            "id": 11,
+            "caratula" : "https://pics.filmaffinity.com/breaking_the_waves-349148098-large.jpg",
+            "titulo" : "Rompiendo las olas",
+            "descripcion" : "bla bla bla",
+            "director" : "Lars von Trier",
+            "clasification" : "Drama. Romance | Discapacidad. Religión. Vida rural. Drama romántico. Película de culto"
+        },
+        {   
+            "id": 12,
             "caratula" : "https://pics.filmaffinity.com/a_walk_to_remember-780322970-large.jpg",
             "titulo" : "Un paseo para recordar",
             "descripcion" : "bla bla bla",
@@ -100,3 +99,4 @@
         }
     ]
 }
+
