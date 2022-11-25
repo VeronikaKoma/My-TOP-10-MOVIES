@@ -1,5 +1,8 @@
 const requestURL = "../json/peliculas.json";
 
+var audio=document.querySelector("audio");
+audio.volume=0.5;
+
 async function fetchMoviesJson(){
     const response = await fetch(requestURL);
     const movies = await response.json();
