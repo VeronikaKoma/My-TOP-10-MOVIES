@@ -50,7 +50,13 @@ h2 {
     -webkit-text-fill-color: rgb(227, 230, 198);
 }
 
+.socialMedia {
+float: right;
+justify-content: flex-end;
+}
+
 .img-fluid {
     width: 250px;
     height: 150px;
 }
+
