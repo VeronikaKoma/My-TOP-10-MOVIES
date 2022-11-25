@@ -75,6 +75,22 @@
             "clasification" : "Película de culto. Comedia negra"
         },
         {   
+            "id": 5,
+            "caratula" : "https://pics.filmaffinity.com/the_horse_whisperer-924204810-large.jpg",
+            "titulo" : "El hombre que susurraba a los caballos",
+            "descripcion" : "bla bla bla",
+            "director" : "Robert Redford",
+            "clasification" : "Drama romantico"
+        },
+        {   
+            "id": 5,
+            "caratula" : "https://pics.filmaffinity.com/the_horse_whisperer-924204810-large.jpg",
+            "titulo" : "El hombre que susurraba a los caballos",
+            "descripcion" : "bla bla bla",
+            "director" : "Robert Redford",
+            "clasification" : "Drama romantico"
+        },
+        {   
             "id": 10,
             "caratula" : "https://pics.filmaffinity.com/a_walk_to_remember-780322970-large.jpg",
             "titulo" : "Un paseo para recordar",
