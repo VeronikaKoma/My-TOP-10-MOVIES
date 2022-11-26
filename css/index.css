@@ -7,13 +7,14 @@ body {
     align-items: calc(-11, 11, 11);
     justify-content: end;
     flex-direction:row;
-    width: 15%;
+    width: 170px;
     max-height: 20%;
     margin-top: -13%;
     
     
 }
-bgsound {
+
+.mediaplayer {
     flex-shrink: right;
 }
 
