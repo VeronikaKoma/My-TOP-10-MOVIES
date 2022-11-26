@@ -2,6 +2,12 @@ body {
     background-color: rgb(66, 67, 61);
 }
 
+.mediaplayer {
+    color: aqua;
+    flex-shrink: right;
+    color: rgb(243, 160, 51);
+}
+
 .TagLink {
     margin-left: auto;
     align-items: calc(-11, 11, 11);
@@ -14,9 +20,7 @@ body {
     
 }
 
-.mediaplayer {
-    flex-shrink: right;
-}
+
 
 .cardsMovies{
     display: flex;
