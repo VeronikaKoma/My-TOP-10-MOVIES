@@ -16,5 +16,4 @@ El pie de página contiene un enlace al hashtag en Facebook e Instagram. Cuando 
 
 Debido al hecho de que estoy haciendo el proyecto yo mismo por primera vez, tengo errores y me gustaría hacer más.
 
-La próxima vez lo haré.
 
