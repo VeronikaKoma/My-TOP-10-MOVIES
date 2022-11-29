@@ -47,6 +47,9 @@ h2 {
 
 .card-imagen-top{
     margin-bottom: 15px;
+    flex-wrap: wrap;
+    width: 45px;
+    height: 23px;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Rubik+Microbe&display=swap');
