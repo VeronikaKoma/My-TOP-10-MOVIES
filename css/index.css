@@ -1,3 +1,8 @@
+.title {
+    margin-left: 12px;
+    font-size: small;
+}
+
 body {
     background-color: rgb(66, 67, 61);
 }
@@ -45,7 +50,7 @@ h2 {
     justify-content:space-between; 
 }
 
-.card-imagen-top{
+.card-imagen-top {
     margin-bottom: 15px;
     flex-wrap: wrap;
     width: 45px;
