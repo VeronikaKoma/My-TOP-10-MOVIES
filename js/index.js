@@ -21,10 +21,10 @@ fetchMoviesJson().then(movies =>{
         let id = movies.peliculas[index].id;
         
         let title = movies.peliculas[index].titulo;
-        let sinopsys = movies.peliculas[index].descripcion;
+        let resume = movies.peliculas[index].description;
         let director = movies.peliculas[index].director;
         let img = movies.peliculas[index].caratula;
-        let genre = movies.peliculas[index].clasification;
+        let genre = movies.peliculas[index].classification;
         //console.log(movies.peliculas[index].id);
 
         moviesSection.innerHTML += `

@@ -1,103 +1,104 @@
 {
-    "peliculas": [
-        {
-            "id": 1,
-            "caratula" : "https://pics.filmaffinity.com/the_bridges_of_madison_county-998728421-large.jpg",
-            "titulo" : "Los puentes de Madison",
-            "descripcion" : "bla bla bla",
-            "director" : "Clint Eastwood",
-            "clasification" : "Romance. Drama"
-        },
-        {   
-            "id": 2,
+    "peliculas":
+    
+    [
             
-            "caratula" : "https://pics.filmaffinity.com/citizen_kane-217208961-large.jpg",
-            "titulo" : "Ciudadano Kane",
-            "descripcion" : "bla bla bla",
-            "director" :  "Orson Welles",
-            "clasification" : "Drama"
-        },
-        {   
-            "id": 3,
-            "caratula" : "https://pics.filmaffinity.com/loving_vincent-903551620-large.jpg",
-            "titulo" : "Loving Vincent",
-            "descripcion" : "bla bla bla",
-            "director" : "Dorota Kobiela, Hugh Welchman",
-            "clasification" : "Animacion. Biografico"
-        },
-        {   
-            "id": 4,
-            "caratula" : "https://www.ecartelera.com/carteles/6200/6288/002.jpg",
-            "titulo" : "La tumba de las luciernagas",
-            "descripcion" : "bla bla bla",
-            "director" : "Isao Takahata",
-            "clasification" : "Animacion"
-        },
-        {   
-            "id": 5,
-            "caratula" : "https://pics.filmaffinity.com/the_horse_whisperer-924204810-large.jpg",
-            "titulo" : "El hombre que susurraba a los caballos",
-            "descripcion" : "bla bla bla",
-            "director" : "Robert Redford",
-            "clasification" : "Drama romantico"
-        },
-        {   
-            "id": 6,
-            "caratula" : "https://pics.filmaffinity.com/meet_joe_black-143070741-large.jpg",
-            "titulo" : "Conoces a Joe Black",
-            "descripcion" : "bla bla bla",
-            "director" : "Martin Brest",
-            "clasification" : "Drama romantico"
-            },
-        {   
-            "id": 7,
-            "caratula" : "https://pics.filmaffinity.com/pay_it_forward-693981184-large.jpg",
-            "titulo" : "Cadena de favores",
-            "descripcion" : "bla bla bla",
-            "director" : "Mimi Leder",
-            "clasification" : "Drama"
-        },
-        {   
-            "id": 8,
-            "caratula" : "https://pics.filmaffinity.com/anne_of_green_gables_tv-435141607-large.jpg",
-            "titulo" : "Ana de las tejas verdes (TV)",
-            "descripcion" : "bla bla bla",
-            "director" : "Kevin Sullivan",
-            "clasification" : "Adopcion"
-        },
-        {   
-            "id": 9,
-            "caratula" : "https://pics.filmaffinity.com/fight_club-320750671-large.jpg",
-            "titulo" : "El club de la lucha",
-            "descripcion" : "Un joven hastiado de su gris y monótona vida lucha contra el insomnio. En un viaje en avión conoce a un carismático vendedor de jabón que sostiene una teoría muy particular: el perfeccionismo es cosa de gentes débiles; sólo la autodestrucción hace que la vida merezca la pena. Ambos deciden entonces fundar un club secreto de lucha, donde poder descargar sus frustaciones y su ira, que tendrá un éxito arrollador.",
-            "director" : "David Fincher",
-            "clasification" : "Película de culto. Comedia negra"
-        },
-        {   
-            "id": 10,
-            "caratula" : "https://pics.filmaffinity.com/the_way_we_were-850530104-large.jpg",
-            "titulo" : "Tal como eramos",
-            "descripcion" : "bla bla bla",
-            "director" : "Sydney Pollack",
-            "clasification" : "Drama romantico"
-        },
-        {   
-            "id": 11,
-            "caratula" : "https://pics.filmaffinity.com/breaking_the_waves-349148098-large.jpg",
-            "titulo" : "Rompiendo las olas",
-            "descripcion" : "bla bla bla",
-            "director" : "Lars von Trier",
-            "clasification" : "Drama. Romance | Discapacidad. Religión. Vida rural. Drama romántico. Película de culto"
-        },
-        {   
-            "id": 12,
-            "caratula" : "https://www.ecartelera.com/carteles/8100/8132/001_p.jpg",
-            "titulo" : "Un paseo para recordar",
-            "descripcion" : "bla bla bla",
-            "director" : "Adam Shankman",
-            "clasification" : "Drama"
-        }
-    ]
-}
-
-
+                    {
+                        "id": "1",
+                        "titulo": "Los puentes de Madison",
+                        "director": "Clint Eastwood",
+                        "description": "La apacible pero anodina vida de Francesca Johnson (Meryl Streep), un ama de casa que vive en una granja con su familia, se ve alterada con la llegada de Robert Kincaid (Clint Eastwood), un veterano fotógrafo de la revista National Geographic, que visita el condado de Madison (Iowa) para fotografiar sus viejos puentes. Cuando Francesca invita a Robert a cenar, un amor verdadero y una pasión desconocida nacerá entre ellos. (FILMAFFINITY)",
+                        "caratula": "https://www.ecartelera.com/carteles/5600/5653/002_p.jpg",
+                        "classification": "Romance. Drama"
+                    },
+                    {
+                        "id": "2",
+                        "titulo": "Ciudadano Kane",
+                        "director": "Orson Welles",
+                        "description": "Un importante magnate estadounidense, Charles Foster Kane, dueño de una importante cadena de periódicos, de una red de emisoras, de dos sindicatos y de una inimaginable colección de obras de arte, muere en Xanadú, su fabuloso castillo de estilo oriental. La última palabra que pronuncia antes de expirar, ”Rosebud”, cuyo significado es un enigma, despierta una enorme curiosidad tanto en la prensa como entre la población. Así, un grupo de periodistas emprende una investigación para desentrañar el misterio. (FILMAFFINITY)",
+                        "caratula": "https://www.ecartelera.com/carteles/200/274/001_p.jpg",
+                        "classification": "Drama"
+                    },
+                    {
+                        "id": "3",
+                        "titulo": "Loving Vincent",
+                        "director": "Dorota Kobiela, Hugh Welchman",
+                        "description": "Año 1891. Un año después de la muerte de Vincent van Gogh, el cartero Roulin le pide a su hijo Armand que entregue personalmente la última carta de Van Gogh a su hermano, Theo, después de que sus intentos previos de enviársela hubieran fallado. A pesar de no haber apreciado a Van Gogh y recordar el incidente cuando el fallecido se mutiló su oreja y se la dio a una prostituta, Armand acepta con disgusto debido al afecto de su padre por el pintor...\r\n\r\nPrimer largometraje compuesto por pinturas animadas, \"Loving Vincent\" es un film homenaje a Van Gogh en el que cada fotograma es un cuadro pintado sobre óleo, tal y como el propio Vincent lo hubiera pintado. Sus 80 minutos de duración están compuestos por 56.800 fotogramas que han sido pintados, uno a uno, por una gran cantidad de excelentes pintores a lo largo de varios años, todos inspirándose en el estilo y arte magistral de Van Gogh. (FILMAFFINITY)",
+                        "caratula": "https://www.ecartelera.com/carteles/13400/13423/002_p.jpg",
+                        "classification": "Animacion. Biografico"
+                    },
+                    {
+                        "id": "4",
+                        "titulo": "La tumba de las luciernagas",
+                        "director": "Isao Takahata",
+                        "description": "Segunda Guerra Mundial (1939-1945). Seita y Setsuko son hijos de un oficial de la marina japonesa que viven en Kobe. Un día, durante un bombardeo, no consiguen llegar a tiempo al búnker donde su madre los espera. Cuando después buscan a su madre, la encuentran malherida en la escuela, que ha sido convertida en un hospital de urgencia. (FILMAFFINITY)",
+                        "caratula": "https://i.postimg.cc/9fcFTdKp/imgonline-com-ua-Resize-r-K5-Xc-Wj-Rg-La.jpg",
+                        "classification": "Animacion"
+                    },
+                    {
+                        "id": "5",
+                        "titulo": "El hombre que susurraba",
+                        "director": "Robert Redford",
+                        "description": "Grace (Scarlett Johansson) y su amiga Judith salen a dar un paseo a caballo y son atropelladas por un tráiler. Judith y su caballo mueren, mientras que Grace y el suyo (Pilgrim) resultan gravemente heridos. En un intento desesperado por recuperar a Pilgrim que, desde el accidente, se ha convertido en un caballo salvaje, Anie (Scott Thomas), la madre de Grace, decide ir a Montana a ver a Tom Booker (Robert Redford), un vaquero que posee un don especial para hablar y curar a los caballos. (FILMAFFINITY)",
+                        "caratula": "https://www.ecartelera.com/carteles/5400/5441/001_p.jpg",
+                        "classification": "Romance. Drama | Drama romántico. Animales. Caballos. Vida rural (Norteamérica)"
+                    },
+                    {
+                        "id": "6",
+                        "titulo": "Conoces a Joe Black",
+                        "director": "Martin Brest",
+                        "description": "William Parrish (Anthony Hopkins), es un poderoso magnate cuya vida se ve alterada por la llegada de un enigmático joven llamado Joe Black (Brad Pitt) que se enamora de su hija (Claire Forlani). Joe es, en realidad, la personificación de la muerte, con una misión que cumplir en dicho hogar... (FILMAFFINITY)",
+                        "caratula": "https://www.ecartelera.com/carteles/8800/8808/001_p.jpg",
+                        "classification": "Drama romantico"
+                    },
+                    {
+                        "id": "7",
+                        "titulo": "Cadena de favores",
+                        "director": "Mimi Leder",
+                        "description": "Un niño imagina un curioso sistema para mejorar el mundo; hacer favores desinteresadamente. Para sorpresa de todos, la generosa propuesta causa furor entre la gente. Entretenida comedia con toques dramáticos y un eficaz reparto. En la novela en la que se basa el film, el personaje interpretado por Spacey es de raza negra, lo que provocó cierta polémica en USA. (FILMAFFINITY)",
+                        "caratula": "https://www.ecartelera.com/carteles/5100/5150/001_p.jpg",
+                        "classification": "Drama"
+                    },
+                    {
+                        "id": "8",
+                        "titulo": "Ana de las tejas verdes (TV)",
+                        "director": "Kevin Sullivan",
+                        "description": "Todo un clásico de la televisión canadiense -a su vez basada en una joya de la literatura infantil del país norteamericano-. Ambientada en la isla de Prince Edward a finales del siglo XIX, narra la historia de Anne, una niña huérfana de once años que viaja desde el orfanato donde reside hasta la granja de \"Tejas Verdes\". Allí una pareja de hermanos, ambos mayores, la esperan para adoptarla. Al llegar, la niña descubre que todo ha sido un error porque los Cuthbert esperaban en realidad adoptar un muchacho que pudiera ayudarles a llevar la granja. (FILMAFFINITY)",
+                        "caratula": "https://i.postimg.cc/tCKgY8hQ/imgonline-com-ua-Resize-l6j-I0-Er32s5-V.jpg",
+                        "classification": "Adopcion,Drama | Siglo XIX. Infancia. Adopción. Telefilm"
+                    },
+                    {
+                        "id": "9",
+                        "titulo": "El club de la lucha",
+                        "director": "David Fincher",
+                        "description": "Un joven hastiado de su gris y monótona vida lucha contra el insomnio. En un viaje en avión conoce a un carismático vendedor de jabón que sostiene una teoría muy particular: el perfeccionismo es cosa de gentes débiles; sólo la autodestrucción hace que la vida merezca la pena. Ambos deciden entonces fundar un club secreto de lucha, donde poder descargar sus frustaciones y su ira, que tendrá un éxito arrollador. (FILMAFFINITY)",
+                        "caratula": "https://www.ecartelera.com/carteles/4000/4028/002_p.jpg",
+                        "classification": "Película de culto. Comedia negra"
+                    },
+                    {
+                        "id": "10",
+                        "titulo": "Tal como éramos",
+                        "director": "Sydney Pollack",
+                        "description": "Hubbell Gardiner (Redford) y Katie Morowsy (Streisand) son dos estudiantes universitarios con caracteres muy diferentes. Hubbell es un atleta universitario famoso, un gran conquistador y un amante de la buena vida. Katie tiene una decidida vocación política y es consecuente con sus ideas. Ambos se enamoran y se casan, pero su vida conyugal tropieza con muchas dificultades. (FILMAFFINITY)",
+                        "caratula": "https://www.ecartelera.com/carteles/4700/4793/002_p.jpg",
+                        "classification": "Romance. Drama | Drama romántico"
+                    },
+                    {
+                        "id": "11",
+                        "titulo": "Rompiendo las olas",
+                        "director": "Lars von Trier",
+                        "description": "A principios de los años 70, Bess (Watson), una ingenua joven de un pueblo costero de Escocia, se enamora de Jan (Stellan Skarsgård), un hombre mundano que trabaja en una plataforma petrolífera. A pesar de la oposición de la rígida comunidad puritana a la que pertenece, Bess y Jan se casan. Tras la boda, él vuelve a su trabajo, y ella cuenta los días esperando su vuelta. Bess, una creyente devota, cree que su amor está bendecido por el cielo; pero un día sucede un terrible accidente. Primera película de la trilogía \"Corazón dorado\" de Lars Von Trier. (FILMAFFINITY)",
+                        "caratula": "https://www.ecartelera.com/carteles/5500/5596/001_p.jpg",
+                        "classification": "Drama. Romance | Discapacidad. Religión. Vida rural. Drama romántico. Película de culto"
+                    },
+                    {
+                        "id": "12",
+                        "titulo": "Un paseo para recordar",
+                        "director": "Adam Shankman",
+                        "description": "Jamie era la última persona de la que se enamoraría Landon. Demasiado seria y conservadora para su gusto. Hija de un pastor de la iglesia baptista, Jamie no tenía miedo de manifestar que la fe era lo más importante en su vida, aunque ello le costara las críticas de sus compañeros. Landon y su pandilla mandaban en la escuela, pero su reinado terminaría en cuanto salieran del instituto y tuvieran que afrontar las responsabilidades de la vida. (FILMAFFINITY)",
+                        "caratula": "https://www.ecartelera.com/carteles/8100/8132/001_p.jpg",
+                        "classification": "Romance. Drama | Drama romántico. Adolescencia"
+                    }
+                ]
+            }
+        

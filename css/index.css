@@ -1,5 +1,5 @@
-.title {
-    size: 12rem;
+body {
+    background-color: rgb(66, 67, 61);
 }
 
 .mediaplayer {
@@ -9,10 +9,19 @@
     flex-shrink: right;
 }
 
+.TagLink {
+    margin-left: 1320px;
+    margin-top: 11px;
+    width: 120px;
+    align-items: calc(-11, 11, 11);
+    justify-content: end;
+    flex-direction: row;
+}
 @import url('https://fonts.googleapis.com/css2?family=Rubik+Microbe&display=swap');
 
 .text-title {
     margin-left: 25px;
+    margin-top: -10%;
     color: beige;
     font-size: 50px;
     font-family: 'Rubik Microbe', cursive;
@@ -24,6 +33,7 @@
 
 .text-title2 {
     margin-left: 25px;
+    margin-top: 2%;
     color:bisque;
     font-size: 35px;
     font-family: 'Dancing Script', cursive;
@@ -33,18 +43,11 @@
     -webkit-text-fill-color: rgb(227, 230, 198);
 }
 
-body {
-    background-color: rgb(66, 67, 61);
-}
 
-.TagLink {
-    margin-left: 1300px;
-    margin-top: -11%;
-    width: 120px;
-    align-items: calc(-11, 11, 11);
-    justify-content: end;
-    flex-direction: row;
-}
+
+
+
+
 
 .cardsMovies {
     margin: 10px 0 12px 0;
