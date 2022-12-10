@@ -10,20 +10,21 @@ async function fetchMoviesJson(){
 }
 
 
-    fetchMoviesJson().then(movies =>{
+fetchMoviesJson().then(movies =>{
     for(let index = 0 ; index < movies.peliculas.length; index++)
     {
+
+    console.log(movies.peliculas[index].titulo);
+
     const moviesSection = document.getElementById('movieSection');
 
         let id = movies.peliculas[index].id;
         
         let title = movies.peliculas[index].titulo;
-        let descripcion = movies.peliculas[index].descripcion;
+        let sinopsys = movies.peliculas[index].descripcion;
         let director = movies.peliculas[index].director;
-        let genre = movies.peliculas[index].clasification;
         let img = movies.peliculas[index].caratula;
-        let more = movies.peliculas[index].siguentemas;
-    
+        let genre = movies.peliculas[index].clasification;
         //console.log(movies.peliculas[index].id);
 
         moviesSection.innerHTML += `
@@ -38,4 +39,5 @@ async function fetchMoviesJson(){
             `
         
     };
-})
+}
+)
