@@ -4,7 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cartelera BBDD Mysql con php</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://getbootstrap.com/docs/5.2/assets/css/docs.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/newindex.css">
+    <link rel="shortcut icon" href="#">
+    <title>La cartelera</title>
 </head>
 <body>
     <<h1>#MustSeeFromNikaMosquito</h1>
@@ -44,8 +49,18 @@ include "./database/closeDatabase.php";
 ?>
 
 <footer>
-    <<div>@copyright</div>    
+<div class="copyright">
+            <p>#mustSeeFromNikaMosquito</p>
+        </div>
+    
+        <div>
+        <p class="socialMedia"> 
+            <a href="https://www.facebook.com/hashtag/mustseefromnikamosquito/" target="_blank" rel="noopener noreferrer"><img src="/images/Facebook.png" style="width: 40px"><alt="FB"></alt></a>
+            <a href="https://www.instagram.com/explore/tags/mustseefromnikamosquito/" target="_blank" rel="noopener noreferrer"><img src="/images/Instagram.png" style="width: 40px"><alt="IG"></alt></a>
+        </p>  
+        </div>          
 </footer>
+
     </body>
 </html>
 

@@ -19,7 +19,6 @@ fetchMoviesJson().then(movies =>{
     const moviesSection = document.getElementById('movieSection');
 
         let id = movies.peliculas[index].id;
-        
         let title = movies.peliculas[index].titulo;
         let resume = movies.peliculas[index].description;
         let director = movies.peliculas[index].director;
@@ -31,11 +30,13 @@ fetchMoviesJson().then(movies =>{
             <div class="card" style="width: 18rem;">
                 <img src="${img}" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h3 class="card-title">${id}. ${title}</h3>
-                    <h5 class="card-title">Director : ${director}</h5>
-                    <h5 class="card-title">Genero : ${genre}</h5>
-                </div>
-            </div>
+                    <h2 class="card-title">${id}. ${title}</h2>
+                    <h4 class="card-title">Director : ${director}</h3>
+                    <h5 class="card-title">Genero : ${genre}</h2>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div>
+      </div>
             `
         
     };
